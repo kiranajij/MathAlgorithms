@@ -1,1 +1,1 @@
-# MathAlgorithms
+# Math Algorithms
